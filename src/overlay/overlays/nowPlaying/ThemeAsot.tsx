@@ -199,6 +199,7 @@ const TrackContainer = styled(motion.div)<{alignRight?: boolean}>`
   grid-gap: 0.5rem;
   color: ${cssVar('--pt-np-primary-text')};
   font-family: 'Proxmia Nova';
+  text-transform: uppercase;
   font-size: 2rem;
   text-rendering: optimizeLegibility;
 
